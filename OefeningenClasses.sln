@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaTime", "PizzaTime\Pizz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figuren", "Figuren\Figuren.csproj", "{114E0FD3-0255-4CCD-8A7B-BF4B8384DC84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sports", "Sports\Sports.csproj", "{83E6550C-C393-464E-BB5E-7AE6D80E460C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankmanager", "Bankmanager\Bankmanager.csproj", "{A72F61E2-A6BA-4E1B-A2A1-BBB4E389922E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{114E0FD3-0255-4CCD-8A7B-BF4B8384DC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{114E0FD3-0255-4CCD-8A7B-BF4B8384DC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{114E0FD3-0255-4CCD-8A7B-BF4B8384DC84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E6550C-C393-464E-BB5E-7AE6D80E460C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E6550C-C393-464E-BB5E-7AE6D80E460C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E6550C-C393-464E-BB5E-7AE6D80E460C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E6550C-C393-464E-BB5E-7AE6D80E460C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72F61E2-A6BA-4E1B-A2A1-BBB4E389922E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72F61E2-A6BA-4E1B-A2A1-BBB4E389922E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72F61E2-A6BA-4E1B-A2A1-BBB4E389922E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72F61E2-A6BA-4E1B-A2A1-BBB4E389922E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
